@@ -1,6 +1,6 @@
 # Dev
 ## Bash
 * [Bash](Bash)
-  * [Monitoring](Monitoring)
+  * [Monitoring](Bash/Monitoring)
 ## PHP
 * [PHP](PHP)
